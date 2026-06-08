@@ -1,1 +1,1 @@
-Hi my name is Veerannagari Ajay.  i really passionative about software. still iam learning how things works. damn sure i will be a great programmer in future and i will build excellent things.
+I don't care what language or framework a project uses. My focus is solving problems. Give me a new technology, and I'll learn it quickly and start building.
